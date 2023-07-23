@@ -16,3 +16,7 @@ The problem is based on "HealthCare" in which people who are not able to afford 
  
 #### Azure Services Used:
 The project has been successfully deployed on Microsoft Azure Portal, using "Azure Static Web Apps", "Azure Resource Manager"and "Azure Web Apps", after which the project url was generated, for creation and deployment of the website.
+
+### demo 
+
+[demovideo.webm](https://github.com/krishanjangid/MicrosoftFRTPoject/assets/52932576/a7b0d830-eb9e-4924-b3c7-c601777c263a)
